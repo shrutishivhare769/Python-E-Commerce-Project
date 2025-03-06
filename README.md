@@ -1,8 +1,7 @@
 # 📊 E-Commerce Sales Analysis
 ## 📌 Project Overview
 This project analyzes e-commerce sales data to extract insights on customer behavior, sales trends, and product performance. Using **Python, Pandas, Matplotlib, and Seaborn,** we explore key metrics such as order priority, ship mode, product category, profit, and customer segmentation.
-We also handled missing values by filling them with mean of the same column.
-
+We analyzed the data, performed EDA (Exploratory Data Analysis) and visualizations, and answer some questions. 
 
 # 📂 Dataset
 - **Source**: Link for the dataset:
